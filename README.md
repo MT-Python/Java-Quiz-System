@@ -1,6 +1,4 @@
-# 🎯 Java Role-Based Quiz System
-
-A simple **console-based Java quiz application** with **role-based access** using **JSON** for data storage.
+Java  Quiz System
 
 
 ##  Features
@@ -26,4 +24,5 @@ A simple **console-based Java quiz application** with **role-based access** usin
 
 
 ## 📂 Project Video 
+
 
