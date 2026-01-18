@@ -6,5 +6,80 @@
     "option3": "Load Testing",
     "option4": "Unit Testing",
     "answerkey": 4
-  }
+  },
+  [
+    {
+      "question": "What is the main purpose of manual testing?",
+      "option1": "To execute test cases using tools",
+      "option2": "To find defects without automation",
+      "option3": "To improve code performance",
+      "option4": "To write test scripts",
+      "answerkey": 2
+    },
+    {
+      "question": "Which document describes how testing will be performed?",
+      "option1": "Test Case",
+      "option2": "Test Plan",
+      "option3": "Bug Report",
+      "option4": "Test Scenario",
+      "answerkey": 2
+    },
+    {
+      "question": "Which type of testing is done without using any automation tool?",
+      "option1": "Performance Testing",
+      "option2": "Automation Testing",
+      "option3": "Manual Testing",
+      "option4": "Load Testing",
+      "answerkey": 3
+    },
+    {
+      "question": "What is Apache JMeter mainly used for?",
+      "option1": "Manual testing",
+      "option2": "Unit testing",
+      "option3": "Performance and load testing",
+      "option4": "Security testing",
+      "answerkey": 3
+    },
+    {
+      "question": "Which component is mandatory to create a JMeter test plan?",
+      "option1": "Listener",
+      "option2": "Thread Group",
+      "option3": "Timer",
+      "option4": "Assertion",
+      "answerkey": 2
+    },
+    {
+      "question": "Which testing ensures that new changes do not affect existing functionality?",
+      "option1": "Smoke Testing",
+      "option2": "Sanity Testing",
+      "option3": "Regression Testing",
+      "option4": "Load Testing",
+      "answerkey": 3
+    },
+    {
+      "question": "Which JMeter element is used to simulate multiple users?",
+      "option1": "Sampler",
+      "option2": "Thread Group",
+      "option3": "Listener",
+      "option4": "Controller",
+      "answerkey": 2
+    },
+    {
+      "question": "Which testing is performed to verify a small change in code?",
+      "option1": "System Testing",
+      "option2": "Regression Testing",
+      "option3": "Sanity Testing",
+      "option4": "Load Testing",
+      "answerkey": 3
+    },
+    {
+      "question": "Which document contains detailed steps to execute a test?",
+      "option1": "Test Plan",
+      "option2": "Test Case",
+      "option3": "Test Summary Report",
+      "option4": "Bug Life Cycle",
+      "answerkey": 2
+    }
+  ]
+
 ]
