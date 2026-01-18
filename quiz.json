@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Which is not part of system testing",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "answerkey": 4
+  }
+]
